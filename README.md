@@ -200,3 +200,13 @@ some tasks you can work on. Pull requests on Github is welcome!
 Contributors to Tartary-Game
 ---------------------------
 Andreas Xirtus [@xirtus] (http://tartarynova.com)
+
+Thanks to Freeciv
+Andreas Røsdal  [@andreasrosdal](https://github.com/andreasrosdal)  
+Marko Lindqvist [@cazfi](https://github.com/cazfi)  
+Sveinung Kvilhaugsvik [@kvilhaugsvik](https://github.com/kvilhaugsvik)  
+Gerik Bonaert [@adaxi](https://github.com/adaxi)  
+Lmoureaux [@lmoureaux](https://github.com/lmoureaux)  
+Máximo Castañeda [@lonemadmax](https://github.com/lonemadmax)  
+and the [tartarynova.org project](http://freeciv.wikia.com/wiki/People)!
+
